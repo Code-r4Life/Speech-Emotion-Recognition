@@ -87,7 +87,7 @@ A deep **1D Convolutional Neural Network** designed for sequential audio feature
 
 📷 Model Summary  
 
-[__results___files\cnn_arch.png]
+![Model Architecture](metrics/cnn_arch.png)
 
 
 ### 🔹 Architecture Details
@@ -117,7 +117,7 @@ A deep **1D Convolutional Neural Network** designed for sequential audio feature
 
 ## 🔹 Classification Report
 
-[__results___files\classification_report.png]
+![Classification Report](metrics/classification_report.png)
 
 
 **Overall Accuracy:** **92%**  
@@ -132,7 +132,7 @@ A deep **1D Convolutional Neural Network** designed for sequential audio feature
 
 ## 🔹 Training & Validation Performance
 
-[__results___files\__results___45_1.png]
+![Training vs Validation](metrics/__results___45_1.png)
 
 
 **Insights:**
@@ -144,7 +144,7 @@ A deep **1D Convolutional Neural Network** designed for sequential audio feature
 
 ## 🔹 Confusion Matrix
 
-[__results___files\__results___48_0.png]
+![Confusion Matrix](metrics/__results___48_0.png)
 
 
 **Insights:**
